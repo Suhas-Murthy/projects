@@ -1,0 +1,80 @@
+/* main content */
+#facebook-logo {
+    position: relative;
+    width: 50%;
+    /* font-size: 50px; */
+
+
+
+}
+
+input {
+    padding: 15px 40px 15px 40px;
+    border-radius: 10px;
+    border-color: rgba(121, 115, 115, 0.3);
+    font-size: 16px;
+    width: 80%;
+    text-align: center;
+}
+
+#login {
+    background-color: #1877f2;
+    border-color: #1877f2;
+    border-radius: 5px;
+    padding: 3% 43%;
+    color: white;
+    font-style: normal;
+    font-size: 1.1em;
+    font-weight: bold;
+}
+
+#main {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+
+}
+
+#form {
+    width: 30%;
+    text-align: center;
+    /* border: solid; */
+    padding: 15px;
+    /* box-sizing: border-box;
+    box-shadow: #42B72A; */
+    /* border: none;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+    box-sizing: border-box; */
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+    box-sizing: border-box;
+}
+
+#logo-down {
+    position: relative;
+    left: 1.6em;
+    margin-top: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 60%;
+    font-size: 24px;
+
+}
+
+#create{
+    background-color: #42B72A;
+    border-color: #42B72A;
+    border-radius: 5px;
+    padding: 15px 10px;
+    /* position: relative; */
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 15px;
+
+}
+
