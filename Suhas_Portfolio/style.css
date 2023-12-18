@@ -101,7 +101,7 @@ a {
 }
 
 #body-after-nav {
-    background-image: url("/Mi\ notebook.jpg");
+    background-image: url("Mi\ notebook.jpg");
     opacity: 1;
     background-color: transparent;
     color: white;
